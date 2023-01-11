@@ -7,6 +7,6 @@ public class Sum
 
         int Sum = a+b;
 
-        System.out.println("Total sum of "+a+" & "+b+" is: "Sum);
+        System.out.println("The total sum of "+a+" & "+b+" is: "Sum);
     }
 }
